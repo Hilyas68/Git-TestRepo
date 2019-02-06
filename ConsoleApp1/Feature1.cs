@@ -6,6 +6,6 @@ namespace ConsoleApp1
 {
     class Feature1
     {
-        //some comment
+        //some comment 1.2
     }
 }
